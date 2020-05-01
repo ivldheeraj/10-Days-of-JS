@@ -1,4 +1,4 @@
-1. 
+1. HELLO WORLD!
 Sample Input 
 Welcome to 10 Days of JavaScript!
 
@@ -15,7 +15,7 @@ function greeting(parameterVariable) {
     console.log(parameterVariable);
 }
 ------------------------------------------------------------------------------------------------------
-2. ADD 
+2. DATATYPES
 Sample Input 
 12
 4.32
